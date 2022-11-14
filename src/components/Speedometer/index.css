@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  font-family: Roboto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
+.heading {
+  font-size: 30px;
+}
+
+.image {
+  max-height: 50%;
+  width: 70%;
+}
+
+.button-acc {
+  background-color: #0b69ff;
+  border-style: none;
+  color: #ffffff;
+  border-radius: ;
+  padding: 5px;
+  cursor: pointer;
+  outline: none;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.button-brake {
+  background-color: transparent;
+  border-style: solid;
+  border-color: #94a3b8;
+  border-width: 2px;
+  color: #94a3b8;
+  border-radius: ;
+  padding: 5px;
+  cursor: pointer;
+  outline: none;
+  margin: 10px;
+  border-radius: 5px;
+}
